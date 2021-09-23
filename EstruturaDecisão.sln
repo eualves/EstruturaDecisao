@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstruturaDecisão", "EstruturaDecisão\EstruturaDecisão.csproj", "{F689C3BF-5072-4519-AA7F-2EDF6EA1F0F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F689C3BF-5072-4519-AA7F-2EDF6EA1F0F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F689C3BF-5072-4519-AA7F-2EDF6EA1F0F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F689C3BF-5072-4519-AA7F-2EDF6EA1F0F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F689C3BF-5072-4519-AA7F-2EDF6EA1F0F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C3EC750-E105-41D4-8F96-13D635C4DBFB}
+	EndGlobalSection
+EndGlobal
